@@ -20,9 +20,15 @@ It serves as an online portfolio to demonstrate my work and capabilities.
 ## 📂 Project Structure
 
 ```plaintext
-My portfolio/
-├── index.html       # Main HTML file
-├── style.css        # CSS styles
-├── script.js        # JavaScript functionality
-├── assets/          # Images, icons, and other media files
-└── README.md        # Project documentation
+My Portfolio/
+├── index.html           # Main HTML file
+├── scripts/             # Folder containing JavaScript files
+│   └── script.js        # JavaScript functionality
+├── styles/              # Folder containing CSS files
+│   └── styles.css       # CSS styles
+├── images/              # Folder containing images
+│   ├── image1.jpg       # Example image file
+│   ├── image2.png       # Example image file
+│   ├── ...              # 11 different images
+├── README.md            # Project documentation
+└── LICENSE              # License information
