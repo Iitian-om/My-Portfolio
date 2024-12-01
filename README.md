@@ -25,10 +25,7 @@ My Portfolio/
 ├── scripts/             # Folder containing JavaScript files
 │   └── script.js        # JavaScript functionality
 ├── styles/              # Folder containing CSS files
-│   └── styles.css       # CSS styles
-├── images/              # Folder containing images
-│   ├── image1.jpg       # Example image file
-│   ├── image2.png       # Example image file
-│   ├── ...              # 11 different images
+│   └── styles.css       # Main CSS styles 
+├── images/              # Folder containing 11 different images
 ├── README.md            # Project documentation
 └── LICENSE              # License information
